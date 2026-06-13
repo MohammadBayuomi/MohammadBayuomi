@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @MohammadBayuomi
-- 👀 I’m interested in Data Science , Python , R and SQL .
-- 🌱 I’m currently learning more about data analysis mehtods and tools
-- 💞️ I’m looking to collaborate on python & data analysis tasks
+- 👀 I’m Skilled in Data Science , Python , R and SQL .
+- 🌱 I’m Graduated with a Bachelor in Data Science, I keep learning more about data analysis mehtods and tools
+- 💞️ I’m looking to work on python & data analysis tasks
 - 📫 How to reach me ... bayuomimmb@gmail.com
   
-- ⚡  About me: I love Reading  , Learning and Experience new things .
+- ⚡  About me: I love Reading, Learning, Playing sport, video games and Experience new things in life.
 
 <!---
 MohammadBayuomi/MohammadBayuomi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
