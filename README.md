@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohammadBayuomi
-- 👀 I’m Skilled in Data Science , Python , R and SQL .
+- 👀 I’m Skilled in Data Science , Python , Excel and SQL .
 - 🌱 I’m Graduated with a Bachelor in Data Science, I keep learning more about data analysis mehtods and tools
 - 💞️ I’m looking to work on python & data analysis tasks
 - 📫 How to reach me ... bayuomimmb@gmail.com
