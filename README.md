@@ -4,7 +4,7 @@
 - 💞️ I’m looking to work on python & data analysis tasks
 - 📫 How to reach me ... bayuomimmb@gmail.com
   
-- ⚡  About me: I love Reading, Learning, Playing sport, video games and Experience new things in life.
+- ⚡  About me: I love Reading, Learning and Experience new things in life. And of course I always look forward to learn about data analysis and Ai.
 
 <!---
 MohammadBayuomi/MohammadBayuomi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
